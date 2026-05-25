@@ -1,8 +1,8 @@
 # jenkins-ci-cd-pipeline
 
-This project demonstrates a basic CI/CD pipeline using Jenkins Pipeline as Code.
-SonarQube for scan the code 
-Nexus for upload the code
+- This project demonstrates a basic CI/CD pipeline using Jenkins Pipeline as Code.
+- SonarQube for scan the code 
+- Nexus for upload the code
 
 ## Tools Used
 - Jenkins
